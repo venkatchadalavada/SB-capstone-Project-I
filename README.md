@@ -1,4 +1,4 @@
-#Prediction of Churn for Telecom Customers
+Prediction of Churn for Telecom Customers
 
 This repository contains all my code, reports and presentations for my Springboard Capstone 1 Project.
 
