@@ -1,3 +1,5 @@
+#Prediction of Churn for Telecom Customers
+
 This repository contains all my code, reports and presentations for my Springboard Capstone 1 Project.
 
 For this project, I took a dataset of customers for a telecom company and built machine learning models that predict the probability whether a particular customer will churn or not. Additionally, I conducted analyses to identify the profile of a churn customer (demographics, preferred services, etc). My findings are written up in a final report and presentation, which also contain my recommendations to the company on how to reduce their churn rate.
